@@ -1,0 +1,11 @@
+pyaes
+pyasn1
+Pyrogram
+PySocks
+rsa
+Telethon
+TgCrypto
+uvloop
+loguru
+cryptg
+emoji
